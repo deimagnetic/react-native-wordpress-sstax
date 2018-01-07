@@ -10,7 +10,8 @@ node -v : v6.12.0
 exp -V : 46.0.4
 npm -v : 5.5.1
 
-# React native plugin use
+# what is this
+a standard expo react-native app work with wordpress api
 
 # How to use
 git clone this repo to you computer
